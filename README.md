@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**kaiosales/kaiosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Kaio Sales**, I'm a brazilian software developer currently living (and freezing) in Ireland.
 
-Here are some ideas to get you started:
+- 🔥 Currently working as a Senior Frontend Developer
+- 📖 Learning React and NodeJS
+- 🌱 On a journey to become a Software Architect
+- 🔭 Always interested in UX and it's phycology behind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+![Stack](assets/stack_dark.png#gh-dark-mode-only)
+![Stack](assets/stack_light.png#gh-light-mode-only)
+
